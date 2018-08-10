@@ -24,9 +24,12 @@ class url_Parse:
         result = ''
         for k in TBData.text.splitlines():
             if flag:
-                if k.strip() or not '====' in k:
-                    result+=k+'\n'
-            if k.find('==Definition=='):
+                if k.strip():
+                    if not '===' or not '==' in k:
+                        result+=k
+            if '==Definition==' in k :
+                flag=True
+            elif '== Definition ==' in k:
                 flag=True
 #        nlp = spacy.load('en_core_web_sm')
 #        doc = nlp(TBData.text)

@@ -447,102 +447,6 @@
         "exists": "1",
         "displaytitle": ""
     },
-    "Alternating group": {
-        "printouts": [],
-        "fulltext": "Alternating group",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A10": {
-        "printouts": [],
-        "fulltext": "Alternating group:A10",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A10",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A11": {
-        "printouts": [],
-        "fulltext": "Alternating group:A11",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A11",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A12": {
-        "printouts": [],
-        "fulltext": "Alternating group:A12",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A12",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A13": {
-        "printouts": [],
-        "fulltext": "Alternating group:A13",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A13",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A14": {
-        "printouts": [],
-        "fulltext": "Alternating group:A14",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A14",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A4": {
-        "printouts": [],
-        "fulltext": "Alternating group:A4",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A4",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A5": {
-        "printouts": [],
-        "fulltext": "Alternating group:A5",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A5",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A6": {
-        "printouts": [],
-        "fulltext": "Alternating group:A6",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A6",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A7": {
-        "printouts": [],
-        "fulltext": "Alternating group:A7",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A7",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A8": {
-        "printouts": [],
-        "fulltext": "Alternating group:A8",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A8",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Alternating group:A9": {
-        "printouts": [],
-        "fulltext": "Alternating group:A9",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Alternating_group:A9",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
     "Amalgam-characteristic subgroup": {
         "printouts": [],
         "fulltext": "Amalgam-characteristic subgroup",
@@ -995,14 +899,6 @@
         "printouts": [],
         "fulltext": "Bounded-solvable IAPS",
         "fullurl": "https://groupprops.subwiki.org/wiki/Bounded-solvable_IAPS",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Braid group:B3": {
-        "printouts": [],
-        "fulltext": "Braid group:B3",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Braid_group:B3",
         "namespace": 0,
         "exists": "1",
         "displaytitle": ""
@@ -1471,14 +1367,6 @@
         "exists": "1",
         "displaytitle": ""
     },
-    "Centralizer-large subgroup": {
-        "printouts": [],
-        "fulltext": "Centralizer-large subgroup",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Centralizer-large_subgroup",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
     "Centrally closed subgroup": {
         "printouts": [],
         "fulltext": "Centrally closed subgroup",
@@ -1723,22 +1611,6 @@
         "printouts": [],
         "fulltext": "Characteristically polycyclic group",
         "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_polycyclic_group",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Characteristically simple group": {
-        "printouts": [],
-        "fulltext": "Characteristically simple group",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Characteristically_simple_group",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Characterization of free Lie ring in terms of eigenspaces of Dynkin operator": {
-        "printouts": [],
-        "fulltext": "Characterization of free Lie ring in terms of eigenspaces of Dynkin operator",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Characterization_of_free_Lie_ring_in_terms_of_eigenspaces_of_Dynkin_operator",
         "namespace": 0,
         "exists": "1",
         "displaytitle": ""
@@ -2367,14 +2239,6 @@
         "exists": "1",
         "displaytitle": ""
     },
-    "Corollary of Timmesfeld's replacement theorem for abelian subgroups": {
-        "printouts": [],
-        "fulltext": "Corollary of Timmesfeld's replacement theorem for abelian subgroups",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Corollary_of_Timmesfeld%27s_replacement_theorem_for_abelian_subgroups",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
     "Countable group": {
         "printouts": [],
         "fulltext": "Countable group",
@@ -2691,14 +2555,6 @@
         "printouts": [],
         "fulltext": "Dicyclic group",
         "fullurl": "https://groupprops.subwiki.org/wiki/Dicyclic_group",
-        "namespace": 0,
-        "exists": "1",
-        "displaytitle": ""
-    },
-    "Dicyclic group:Dic12": {
-        "printouts": [],
-        "fulltext": "Dicyclic group:Dic12",
-        "fullurl": "https://groupprops.subwiki.org/wiki/Dicyclic_group:Dic12",
         "namespace": 0,
         "exists": "1",
         "displaytitle": ""

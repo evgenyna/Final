@@ -12,6 +12,10 @@ class Define:
         self.definition = re.sub(l_brackets,'',self.definition)
         #Remove right brackets
         r_brackets = '\]\]'
+        #Remove # 
+        r_hashtag = '#'
+        self.definition = re.sub(r_hashtag,'',self.definition)
+        
         self.definition = re.sub(r_brackets,'',self.definition)
         self.all_tags_pos = self.__Find_Tags_Positions()
         self.all_formulas = self.__Formulas()
@@ -66,6 +70,10 @@ class Define:
           #Remove right brackets
           r_brackets = '\]\]'
           text = re.sub(r_brackets,'',text)
+          #Remove #
+          r_hashtag = '#'
+          text = re.sub(r_hashtag,'',text)
+          
 
           return text
      

@@ -33,7 +33,7 @@ OUTPUT_DIR = 'data'
 create_dir(OUTPUT_DIR)
 
 #url = 'https://groupprops.subwiki.org/w/index.php?title=(2,3,7)-triangle_group&action=edit'
-##url = 'https://groupprops.subwiki.org/w/index.php?title=Subgroup_with_abelianization_of_maximum_order&action=edit'
+#url = 'https://groupprops.subwiki.org/w/index.php?title=1-automorphism-invariant_subgroup&action=edit'
 #string = url_Parse(url)
 #
 #test = Define(string.string)
@@ -45,23 +45,55 @@ create_dir(OUTPUT_DIR)
 ##print(formulas[0])
 #text = test.tags_removed
 ##print(text)
-#sentence = test.tokenized |'not working look next line for working command'|
+#sentences = test.tokenized 
 #sentence = test.tokenized
 
 #result = OpenJson('data\\SubWiki.json')
 
-filename = "definition.txt"
-def_open = open(filename,"w")
+filename1 = "All Sentences.txt"
+filename2 = "Defenitions with URL.txt"
+filename3 = "Defenitions.txt"
+
+all_Sentences = open(filename1,"w")
+definition_url = open(filename2, "w")
+definition = open(filename3, "w")
+
 res = Create_URL_List(OpenJson('data\\SubWiki.json'))
+#res = Create_URL_List(OpenJson('data\\SubWikiRead.json'))
+
+#strng = url_Parse(res[0])
+#test = Define(strng.string)
+#sentences = test.tokenized
+#doc = nlp(sentences)
+#sen = [sent.string.strip() for sent in doc.sents]
+#for line in sen:
+#    all_Sentences.write(line)
+#    all_Sentences.write("\n")
+#all_Sentences.write(res[0])
+#all_Sentences.close()
+
 for line in res:
     strng = url_Parse(line)
     test = Define(strng.string)
     sentences = test.tokenized
     doc = nlp(sentences)
     sen = [sent.string.strip() for sent in doc.sents]
-    def_open.write("".join(sen)+'\n'+ line)    
-    def_open.write("\n")
-def_open.close()
+    all_Sentences.write(str(res.index(line)+1) + '\n')
+    definition_url.write(str(res.index(line)+1) + '\n')
+    for sentence in sen:
+        
+        all_Sentences.write(sentence)
+        all_Sentences.write("\n")
+#    all_Sentences.write("".join(sen)+'\n'+ line)    
+#    all_Sentences.write("\n")
+    all_Sentences.write(line + '\n')
+    definition_url.write(sen[0] + '\n' + line + '\n')
+    definition.write(sen[0] + '\n')
+
+all_Sentences.close()
+definition_url.close()
+definition.close()
+
     
     
     
