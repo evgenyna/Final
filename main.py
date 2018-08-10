@@ -45,7 +45,8 @@ create_dir(OUTPUT_DIR)
 ##print(formulas[0])
 #text = test.tags_removed
 ##print(text)
-#sentences = test.tokenized
+#sentence = test.tokenized |'not working look next line for working command'|
+#sentence = test.tokenized
 
 #result = OpenJson('data\\SubWiki.json')
 
