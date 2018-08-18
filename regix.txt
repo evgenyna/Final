@@ -1,0 +1,16 @@
+regix's example:
+
+
+
+1)  ={3}\s*(Relation with other properties|Def|sent)\s*={3}
+data:
+===     Relation with other properties      ===
+==dEFINITION==
+asdasdasdasdaSD
+ASDFSDFSDFSADFSDF
+ASDFSFSADFSDFWQ324R234587697=890890=-=89089089===890890890==
+=== Def ===
+
+=== sent ===
+
+2) ^={2}[^=].*[^=]={2}$

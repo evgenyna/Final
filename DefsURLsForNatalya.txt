@@ -1,0 +1,15 @@
+Suppose G is a group and H is a subgroup of G.
+We say that H is an AMALGAM-CHARACTERISTIC SUBGROUP of G if H is characteristic in the group L given by _ L _ = _ G _ * _ ( _ H _ ) _ G _.
+In other words , L is the amalgam of G with itself over H , and H is treated as the subgroup of L given by the amalgamated H between the two factors.
+https://groupprops.subwiki.org/w/index.php?title=Amalgam-characteristic_subgroup&action=edit
+Suppose G is a group and H is a subgroup of G.
+We say that H is an AMALGAM-CHARACTERISTIC SUBGROUP of G if H is characteristic in the group L given by _ L _ = _ G _ * _ ( _ H _ ) _ G _.
+In other words , L is the amalgam of G with itself over H , and H is treated as the subgroup of L given by the amalgamated H between the two factors.
+https://groupprops.subwiki.org/w/index.php?title=Amalgam-characteristic_subgroup&action=edit
+Suppose G is a group and H is a subgroup of G.
+We say that H is an AMALGAM-CHARACTERISTIC SUBGROUP of G if H is characteristic in the group L given by _ L _ = _ G _ * _ ( _ H _ ) _ G _.
+In other words , L is the amalgam of G with itself over H , and H is treated as the subgroup of L given by the amalgamated H between the two factors.
+https://groupprops.subwiki.org/w/index.php?title=Amalgam-characteristic_subgroup&action=edit
+This group , denoted $ C_5 , \ Z_5 , \ Z/5 \ Z$ , is defined in the following equivalent ways : * It is the cyclic group of order five.
+* It is the additive group of the field of five elements.
+https://groupprops.subwiki.org/w/index.php?title=Cyclic_group:Z5&action=edit
